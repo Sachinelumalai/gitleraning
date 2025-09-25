@@ -1,0 +1,22 @@
+---------GIT------------
+
+
+0. git init - get the dir/folder into the git
+1. git config --global user.name 'name' - used to identify the user who done the modification.
+2. git add - it used to move the (file/rep) to the git space, but in staging, which saves the file temporarily save. 
+3. git commit - it used to move the (file/rep) to the git space, also known as permanent SAVE.
+4. git log - it used to show the log history.
+5. git restore 'file' - used to get back to the previous state before it gets committed.
+6. git rm 'file' - used to remove the file.
+7. git reset - used to remove the data or get to the previous state.(change the HEAD position)
+8. git revert - used to delete the particular data on the file.
+9. git clone - used to download the file/folder from the HUB.
+10. git push - used to move the data from the local to the remote.
+11. git branch - used to create separate work space
+12. git checkout - used to switch the area
+13. git pull - used to get the data from the remote
+14. git merge - used to combine the data
+15. git rebase  - used to move the changes made in the branches
+16. git cherry-pick - used to get the particular data from the branch
+17. git stash - used to hold the data in the local device without showing in staging area.
+ 
